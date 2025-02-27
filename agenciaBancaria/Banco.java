@@ -3,7 +3,7 @@ package projetoContaBancaria.agenciaBancaria;
 import java.util.ArrayList;
 import projetoContaBancaria.caixaEletronico.ContaBancaria;
 
-public class Banco { // Corrigido: Nome da classe com inicial maiúscula
+public class Banco { 
 
 	private String nome;
 	private ArrayList<ContaBancaria> contas = new ArrayList<>();
