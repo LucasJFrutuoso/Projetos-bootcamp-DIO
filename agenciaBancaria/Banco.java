@@ -39,6 +39,7 @@ public class Banco {
 	}
 
 	// Getters e Setters
+	
 	public String getNome() {
 		return nome;
 	}
